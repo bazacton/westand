@@ -1,0 +1,7 @@
+[01-Dec-2022 11:23:21 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[01-Dec-2022 13:41:41 Europe/Stockholm] PHP Warning:  array_merge(): Expected parameter 5 to be an array, string given in /home2/chimpbaz/public_html/chimpstudioco/westand/wp-includes/widgets.php on line 1342
+[01-Dec-2022 13:41:41 Europe/Stockholm] PHP Warning:  array_diff(): Expected parameter 2 to be an array, null given in /home2/chimpbaz/public_html/chimpstudioco/westand/wp-includes/widgets.php on line 1343
+[01-Dec-2022 13:41:41 Europe/Stockholm] PHP Warning:  Invalid argument supplied for foreach() in /home2/chimpbaz/public_html/chimpstudioco/westand/wp-includes/widgets.php on line 1345
+[01-Dec-2022 13:41:41 Europe/Stockholm] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home2/chimpbaz/public_html/chimpstudioco/westand/wp-includes/widgets.php on line 1353
+[01-Dec-2022 13:41:42 Europe/Stockholm] PHP Warning:  Invalid argument supplied for foreach() in /home2/chimpbaz/public_html/chimpstudioco/westand/wp-content/themes/westand/include/widgets.php on line 1319
+[01-Dec-2022 13:43:20 Europe/Stockholm] PHP Warning:  Invalid argument supplied for foreach() in /home2/chimpbaz/public_html/chimpstudioco/westand/wp-content/themes/westand/include/widgets.php on line 1319

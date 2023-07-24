@@ -1,0 +1,1639 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 3.5.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-17 13:12+0000\n"
+"PO-Revision-Date: 2020-02-17 13:10+0000\n"
+"Last-Translator: admin <test@test.com>\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ../../../../../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: fa_IR\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: 404.php:11
+msgid "Page not found"
+msgstr "برگه پیدا نشد."
+
+#: 404.php:15 404.php:19
+msgid "It seems we can not find what you are looking for."
+msgstr ""
+
+#. Name of the template
+msgid "Paypal Notification Template"
+msgstr ""
+
+#: comments.php:9
+msgid "No Comments"
+msgstr "بدون دیدگاه"
+
+#: comments.php:9 functions.php:1378 page_blog.php:120 page_blog.php:244
+#: single.php:142
+msgid "1 Comment"
+msgstr "۱ دیدگاه"
+
+#: comments.php:9 page_blog.php:120 page_blog.php:244
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: comments.php:16 comments.php:23
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:17 comments.php:24
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:32 functions.php:6
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"شما می‌توانید از این دستورات <abbr title=\"HyperText Markup Language\">"
+"HTML</abbr> استفاده کنید: %s"
+
+#: comments.php:33
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "ببخشید، برای نوشتن دیدگاه باید <a href=\"%s\">وارد بشوید</a>"
+
+#: comments.php:34
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"وارد شده با نام <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"بیرون "
+"رفتن از این حساب کاربری\">بیرون رفتن؟</a>"
+
+#: comments.php:35
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "بخش‌های موردنیاز علامت‌گذاری شده‌اند %s"
+
+#: comments.php:72
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:73 woocommerce/single-product-reviews.php:74
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:74
+msgid "Cancel reply"
+msgstr "لغو پاسخ"
+
+#: comments.php:75 functions.php:1429 woocommerce/single-product-reviews.php:78
+#: include/importer/wordpress-importer.php:285
+msgid "Submit"
+msgstr "بفرست"
+
+#: footer.php:60 functions.php:1901 functions.php:2004 page_cause.php:375
+#: page_cause.php:400 single-cs_cause.php:186
+msgid "Donate Now"
+msgstr ""
+
+#: functions-theme.php:55 functions-theme.php:67
+msgid "Top"
+msgstr ""
+
+#: functions-theme.php:736
+msgid "Layout options"
+msgstr ""
+
+#: functions-theme.php:738
+msgid "Select Color Scheme"
+msgstr ""
+
+#: functions-theme.php:752
+msgid "Theme Color"
+msgstr ""
+
+#: functions-theme.php:755
+msgid "Choose Your Layout Style"
+msgstr ""
+
+#: functions-theme.php:760
+msgid "Full"
+msgstr ""
+
+#: functions-theme.php:763
+msgid "Boxed"
+msgstr ""
+
+#: functions-theme.php:773
+msgid "Pattren Styles"
+msgstr ""
+
+#: functions-theme.php:780
+msgid "Patterns are available in boxed mode"
+msgstr ""
+
+#: functions-theme.php:820
+msgid "Background Images"
+msgstr ""
+
+#: functions-theme.php:968
+msgid "Support us"
+msgstr ""
+
+#: functions-theme.php:1053
+msgid "Continue Reading"
+msgstr ""
+
+#: functions-theme.php:1514
+msgid "&laquo; Previous"
+msgstr ""
+
+#: functions-theme.php:1550
+msgid "Next &raquo;"
+msgstr ""
+
+#: functions-theme.php:1983
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions-theme.php:1985
+msgid "Main sidebar that appears on the right."
+msgstr ""
+
+#: functions-theme.php:2043 page_blog.php:116 page_blog.php:237
+#, php-format
+msgid "%s"
+msgstr ""
+
+#. 1: date, 2: time
+#: functions-theme.php:2049
+#, php-format
+msgid "<time>%1$s</time>"
+msgstr ""
+
+#: functions-theme.php:2053
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما در انتظار بررسی است."
+
+#: functions-theme.php:2060 functions-theme.php:2086
+msgid "(Edit)"
+msgstr "(ویرایش)"
+
+#: functions-theme.php:2192
+msgid "Current Page"
+msgstr ""
+
+#: functions.php:132
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:137
+msgid "Woocommerce"
+msgstr ""
+
+#: functions.php:161 include/class-tgm-plugin-activation.php:268
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:162 include/class-tgm-plugin-activation.php:269
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:163 include/class-tgm-plugin-activation.php:270
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:164
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:165 include/class-tgm-plugin-activation.php:272
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:166 include/class-tgm-plugin-activation.php:277
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:167
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:168 include/class-tgm-plugin-activation.php:287
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:169 include/class-tgm-plugin-activation.php:292
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:170
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:171 include/class-tgm-plugin-activation.php:302
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:172
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:173 include/class-tgm-plugin-activation.php:312
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:174
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:175 include/class-tgm-plugin-activation.php:322
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:176 include/class-tgm-plugin-activation.php:324
+#: include/class-tgm-plugin-activation.php:2277
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:177
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:478
+msgid "Latest Posts"
+msgstr ""
+
+#: functions.php:507 functions.php:535
+msgid "Upcoming Events"
+msgstr ""
+
+#: functions.php:628
+msgid "Our Photos"
+msgstr ""
+
+#: functions.php:769
+msgid "Follow Us"
+msgstr ""
+
+#: functions.php:793
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:1241 functions.php:1846
+msgid "No results found."
+msgstr "هیچی پیدا نشد."
+
+#: functions.php:1373 page_blog.php:242 single-cs_cause.php:243
+#: single-events.php:194 single.php:122 single.php:159
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: functions.php:1378 page_blog.php:120 page_blog.php:244 single.php:142
+msgid "0 Comment"
+msgstr ""
+
+#: functions.php:1378 single.php:142
+msgid "% Comment"
+msgstr ""
+
+#: functions.php:1383 page_blog.php:124 page_blog.php:248
+msgid "<i class=\"fa fa-pencil-square-o\"></i>Edit"
+msgstr ""
+
+#: functions.php:1395
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:1423
+msgid ""
+"This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: functions.php:1553
+msgid "Featured"
+msgstr ""
+
+#: functions.php:1575
+msgid "Author"
+msgstr "نویسنده"
+
+#: functions.php:1575 functions.php:1578 functions.php:1581 functions.php:1599
+msgid "Archives"
+msgstr "بایگانی"
+
+#. translators: used between list items, there is a space after the comma
+#: functions.php:1578 single-cs_cause.php:239 single-events.php:190
+#: single.php:155 include/cs_cause.php:549 include/post_meta.php:186
+msgid "Tags"
+msgstr "برچسب‌ها"
+
+#: functions.php:1581
+msgid "Categories"
+msgstr "دسته‌ها"
+
+#: functions.php:1584
+#, php-format
+msgid "Search Results %1$s %2$s"
+msgstr "نتایج جست‌وجوی %1$s %2$s"
+
+#: functions.php:1587
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: functions.php:1590
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: functions.php:1590
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: functions.php:1593
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: functions.php:1593
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: functions.php:1596
+msgid "Error 404"
+msgstr ""
+
+#: functions.php:1851
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: functions.php:1855
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: functions.php:1859
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: functions.php:1917 functions.php:2026
+msgid "Donation via paypal from your visitors"
+msgstr ""
+
+#: functions.php:2017
+msgid "Make Donations"
+msgstr ""
+
+#: functions.php:2713 page_contact.php:61 include/cs_cause.php:363
+#: woocommerce/single-product-reviews.php:86
+msgid "Name"
+msgstr "نام"
+
+#: functions.php:2717 page_contact.php:68 include/cs_cause.php:377
+#: include/cs_cause.php:467 woocommerce/single-product-reviews.php:92
+msgid "Email"
+msgstr ""
+
+#: functions.php:2721 page_contact.php:75
+msgid "Subject"
+msgstr ""
+
+#: functions.php:2725 page_contact.php:83
+msgid "Message"
+msgstr ""
+
+#: functions.php:2729
+msgid "IP Address"
+msgstr ""
+
+#: page.php:31 page.php:135 page_blog.php:261 single-cs_cause.php:202
+#: single-events.php:183 single-teams.php:95 single.php:147
+msgid "Pages:"
+msgstr "برگه‌ها :"
+
+#: page_blog.php:239
+msgid "<li><i class=\"fa fa-list\"></i>"
+msgstr ""
+
+#: page_blog.php:254 single-cs_cause.php:253 single-teams.php:106
+#: single.php:169
+msgid "Sahre"
+msgstr ""
+
+#: page_blog.php:337
+#, php-format
+msgid "By: %s"
+msgstr ""
+
+#: page_cause.php:173 single-cs_cause.php:123 single-cs_cause.php:139
+msgid "Closed"
+msgstr ""
+
+#: page_cause.php:393 single-cs_cause.php:180
+msgid "Goal"
+msgstr ""
+
+#: page_cause.php:394 single-cs_cause.php:172
+msgid "Raised"
+msgstr ""
+
+#: page_contact.php:48
+msgid "Send us a message"
+msgstr ""
+
+#: page_contact.php:61 page_contact.php:68 page_contact.php:75
+#: page_contact.php:83
+msgid "(required)"
+msgstr ""
+
+#: page_event.php:195
+msgid "View all events"
+msgstr ""
+
+#: page_event.php:219
+msgid "Events Sort By"
+msgstr ""
+
+#: page_event.php:231 page_event.php:345 page_event.php:487
+#: single-events.php:136
+msgid "All"
+msgstr ""
+
+#: page_event.php:345 page_event.php:487 single-events.php:136
+#, php-format
+msgid "%s day"
+msgstr ""
+
+#: page_event.php:377 page_event.php:383 page_event.php:388
+#: single-events.php:164 single-events.php:167 single-events.php:168
+msgid "Likes"
+msgstr ""
+
+#: page_event.php:483
+msgid "To"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: single-cs_cause.php:211
+msgid "Donors"
+msgstr ""
+
+#: single-cs_cause.php:223
+msgid "Donation"
+msgstr ""
+
+#: single-events.php:133
+msgid "Event Time"
+msgstr ""
+
+#: single-events.php:142
+msgid "Location"
+msgstr ""
+
+#: single-events.php:201
+msgid "Share Now"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:271
+msgid "Something went wrong."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:282
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/class-tgm-plugin-activation.php:297
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/class-tgm-plugin-activation.php:307
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/class-tgm-plugin-activation.php:317
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/class-tgm-plugin-activation.php:323
+msgid "Return to the dashboard"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:325
+#: include/class-tgm-plugin-activation.php:1911
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/class-tgm-plugin-activation.php:326
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:327
+msgid "Dismiss this notice"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:328
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:645
+#: include/class-tgm-plugin-activation.php:2517
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:719
+msgid ""
+"The remote plugin package is does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:719
+#: include/class-tgm-plugin-activation.php:723
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:723
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:768
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:893
+#: include/class-tgm-plugin-activation.php:1907
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1536
+msgid "External Source"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1540
+msgid "Pre-Packaged"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1545
+msgid "WordPress Repository"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1549
+msgid "Required"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1551
+msgid "Recommended"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1555
+msgid "Not Installed"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1557
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1640
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1659
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1705
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1721
+msgid "Plugin"
+msgstr "افزونه"
+
+#: include/class-tgm-plugin-activation.php:1722
+msgid "Source"
+msgstr "منبع"
+
+#: include/class-tgm-plugin-activation.php:1723
+msgid "Type"
+msgstr "نوع"
+
+#: include/class-tgm-plugin-activation.php:1724
+msgid "Status"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1742
+msgid "Install"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1743
+msgid "Activate"
+msgstr "فعال کردن"
+
+#: include/class-tgm-plugin-activation.php:1795
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1893
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2260
+msgid "Install package not available."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2261
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2262
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2263
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2264
+msgid "Plugin install failed."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2265
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2276
+msgid "Plugin activation failed."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2399
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2404
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2405
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2405
+#: include/class-tgm-plugin-activation.php:2412
+msgid "Show Details"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2405
+#: include/class-tgm-plugin-activation.php:2412
+msgid "Hide Details"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2406
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2407
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2411
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2412
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2413
+msgid "All installations have been completed."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2414
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/cs_cause.php:95 include/page_builder.php:22
+msgid "Cause"
+msgstr ""
+
+#: include/cs_cause.php:97
+msgid "All Causes"
+msgstr ""
+
+#: include/cs_cause.php:98 include/cs_cause.php:101
+msgid "Add New Cause"
+msgstr ""
+
+#: include/cs_cause.php:99
+msgid "Edit Cause"
+msgstr ""
+
+#: include/cs_cause.php:100
+msgid "New Cause Item"
+msgstr ""
+
+#: include/cs_cause.php:102
+msgid "View Cause Item"
+msgstr ""
+
+#: include/cs_cause.php:103
+msgid "Search Cause"
+msgstr ""
+
+#: include/cs_cause.php:104
+msgid "Nothing found"
+msgstr ""
+
+#: include/cs_cause.php:105
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: include/cs_cause.php:132
+msgid "Menu Categories"
+msgstr ""
+
+#: include/cs_cause.php:133
+msgid "Search Cause Categories"
+msgstr ""
+
+#: include/cs_cause.php:134
+msgid "Edit Cause Category"
+msgstr ""
+
+#: include/cs_cause.php:135
+msgid "Update Cause Category"
+msgstr ""
+
+#: include/cs_cause.php:136
+msgid "Add New Category"
+msgstr ""
+
+#: include/cs_cause.php:137
+msgid "Cause Categories"
+msgstr ""
+
+#: include/cs_cause.php:154
+msgid "Cause Tags"
+msgstr ""
+
+#: include/cs_cause.php:292
+msgid "Cause Date, Goal, Email"
+msgstr ""
+
+#: include/cs_cause.php:297
+msgid "Cause End Date"
+msgstr ""
+
+#: include/cs_cause.php:309
+msgid "Goal Amount"
+msgstr ""
+
+#: include/cs_cause.php:321
+msgid "Paypal Email"
+msgstr ""
+
+#: include/cs_cause.php:323
+msgid ""
+"Please enter your paypal bussiness email for individual Cause. If you dont "
+"enter paypal email here. You must enter paypal email at theme options"
+msgstr ""
+
+#: include/cs_cause.php:323
+msgid "that will be used for default for all cuases"
+msgstr ""
+
+#: include/cs_cause.php:331
+msgid "Raised Amount"
+msgstr ""
+
+#: include/cs_cause.php:333
+msgid "Auto Calculated Raised Amount From Donations"
+msgstr ""
+
+#: include/cs_cause.php:353
+msgid "Donor Settings"
+msgstr ""
+
+#: include/cs_cause.php:369
+msgid "Put Name"
+msgstr ""
+
+#: include/cs_cause.php:389 include/cs_cause.php:469
+msgid "Amount"
+msgstr ""
+
+#: include/cs_cause.php:401 include/cs_cause.php:471
+msgid "Transaction ID"
+msgstr ""
+
+#: include/cs_cause.php:407
+msgid "Put Transaction ID"
+msgstr ""
+
+#: include/cs_cause.php:415
+msgid "Payment Date"
+msgstr ""
+
+#: include/cs_cause.php:451
+msgid "Cause Donors"
+msgstr ""
+
+#: include/cs_cause.php:453
+msgid "Add Donor"
+msgstr ""
+
+#: include/cs_cause.php:465
+msgid "Donor Name"
+msgstr ""
+
+#: include/cs_cause.php:473
+msgid "Date"
+msgstr ""
+
+#: include/cs_cause.php:475
+msgid "Actions"
+msgstr ""
+
+#: include/cs_cause.php:526
+msgid "Other Options"
+msgstr ""
+
+#: include/cs_cause.php:533 include/post_meta.php:174
+msgid "Social Sharing"
+msgstr ""
+
+#: include/cs_cause.php:542 include/post_meta.php:180
+msgid "Post Author"
+msgstr ""
+
+#: include/cs_cause.php:556 include/post_meta.php:193
+msgid "Next Previous Button"
+msgstr ""
+
+#: include/cs_cause.php:564
+msgid "Donors On/Off"
+msgstr ""
+
+#: include/page_builder.php:21
+msgid "Blog"
+msgstr ""
+
+#: include/page_builder.php:23
+msgid "Column"
+msgstr ""
+
+#: include/page_builder.php:24
+msgid "Team"
+msgstr ""
+
+#: include/page_builder.php:25
+msgid "Contact"
+msgstr ""
+
+#: include/page_builder.php:26
+msgid "Events"
+msgstr ""
+
+#: include/page_builder.php:27
+msgid "Gallery"
+msgstr ""
+
+#: include/page_builder.php:28
+msgid "Tabs"
+msgstr ""
+
+#: include/page_builder.php:29
+msgid "Video"
+msgstr ""
+
+#: include/page_builder.php:30
+msgid "Accordion"
+msgstr ""
+
+#: include/page_builder.php:31
+msgid "Quote"
+msgstr ""
+
+#: include/page_builder.php:32
+msgid "Services"
+msgstr ""
+
+#: include/page_builder.php:33
+msgid "Map"
+msgstr ""
+
+#: include/page_builder.php:34 include/post_meta.php:69
+#: include/post_meta.php:122
+msgid "Slider"
+msgstr ""
+
+#: include/page_builder.php:35
+msgid "FullWidth"
+msgstr ""
+
+#: include/page_builder.php:92
+msgid "Show Page Description"
+msgstr ""
+
+#: include/page_builder.php:95
+msgid "Yes"
+msgstr ""
+
+#: include/page_builder.php:96
+msgid "No"
+msgstr ""
+
+#: include/page_builder.php:98
+msgid "Show the description of the page"
+msgstr ""
+
+#: include/post_meta.php:63
+msgid "Thumbnail View"
+msgstr ""
+
+#: include/post_meta.php:66 include/post_meta.php:119
+msgid "Single Image"
+msgstr ""
+
+#: include/post_meta.php:67 include/post_meta.php:120
+msgid "Audio"
+msgstr ""
+
+#: include/post_meta.php:68 include/post_meta.php:121
+msgid "Video/Soundcloud"
+msgstr ""
+
+#: include/post_meta.php:71 include/post_meta.php:124
+msgid "Use Featured Image as Thumbnail"
+msgstr ""
+
+#: include/post_meta.php:75 include/post_meta.php:128
+msgid "Audio URL"
+msgstr ""
+
+#: include/post_meta.php:79 include/post_meta.php:132
+msgid ""
+"Enter Specific Audio URL (Youtube, Vimeo and all otheres wordpress supported)"
+msgstr ""
+
+#: include/post_meta.php:83 include/post_meta.php:136
+msgid "Use featured image as video thumbnail"
+msgstr ""
+
+#: include/post_meta.php:86 include/post_meta.php:139
+msgid "It will work only for self hosted video"
+msgstr ""
+
+#: include/post_meta.php:89 include/post_meta.php:142
+msgid "Thumbnail Video URL"
+msgstr ""
+
+#: include/post_meta.php:93 include/post_meta.php:146
+msgid ""
+"Enter Specific Video URL (Youtube, Vimeo and all otheres wordpress supported)"
+" OR you can select it from your media library"
+msgstr ""
+
+#: include/post_meta.php:97 include/post_meta.php:150
+msgid "Select Slider"
+msgstr ""
+
+#: include/post_meta.php:100 include/post_meta.php:153
+msgid "-- Select Slider --"
+msgstr ""
+
+#: include/post_meta.php:116
+msgid "Inside Post Thumbnail View"
+msgstr ""
+
+#: include/post_meta.php:170
+msgid "Other Option"
+msgstr ""
+
+#. Base ID
+#: include/widgets.php:23
+msgid "CS : Facebook"
+msgstr ""
+
+#: include/widgets.php:24
+msgid "Facebook widget like box total customized with theme."
+msgstr ""
+
+#: include/widgets.php:52 include/widgets.php:317 include/widgets.php:402
+#: include/widgets.php:657 include/widgets.php:881
+msgid "Title"
+msgstr ""
+
+#: include/widgets.php:57
+msgid "Page Url"
+msgstr ""
+
+#: include/widgets.php:60
+msgid "Please enter your page or User profile url example:L"
+msgstr ""
+
+#: include/widgets.php:67
+msgid "Background Color"
+msgstr ""
+
+#: include/widgets.php:77
+msgid "width"
+msgstr ""
+
+#: include/widgets.php:83
+msgid "Like Box Height"
+msgstr ""
+
+#: include/widgets.php:89
+msgid "Hide Cover"
+msgstr ""
+
+#: include/widgets.php:100
+msgid "Show Faces"
+msgstr ""
+
+#: include/widgets.php:111
+msgid "Show Posts"
+msgstr ""
+
+#: include/widgets.php:122
+msgid "Hide Cta"
+msgstr ""
+
+#: include/widgets.php:132
+msgid "Small Header"
+msgstr ""
+
+#: include/widgets.php:142
+msgid "Adapt width"
+msgstr ""
+
+#. Base ID
+#: include/widgets.php:301
+msgid "CS : Social Newtork"
+msgstr ""
+
+#. Base ID
+#: include/widgets.php:382
+msgid "CS : Gallery Widget"
+msgstr ""
+
+#: include/widgets.php:414 include/widgets.php:992 include/widgets.php:1047
+msgid "Button"
+msgstr ""
+
+#: include/widgets.php:458
+msgid "Number of Images"
+msgstr ""
+
+#. Base ID
+#: include/widgets.php:635
+msgid "CS : Recent Posts"
+msgstr ""
+
+#: include/widgets.php:669
+msgid "Select Category"
+msgstr ""
+
+#: include/widgets.php:701
+msgid "Number of Posts To Display"
+msgstr ""
+
+#: include/widgets.php:713
+msgid "Display Thumbinals"
+msgstr ""
+
+#. Base ID
+#: include/widgets.php:869
+msgid "CS : Twitter Widget"
+msgstr ""
+
+#: include/widgets.php:887
+msgid "Num of Tweets"
+msgstr ""
+
+#: include/widgets.php:946
+msgid "Please Set Twitter API"
+msgstr ""
+
+#. Base ID
+#: include/widgets.php:972
+msgid "CS : Upcoming Events"
+msgstr ""
+
+#: include/widgets.php:1223 include/widgets.php:1834
+msgid "There was a problem processing your submission."
+msgstr ""
+
+#: include/widgets.php:1225
+msgid "Join now!"
+msgstr ""
+
+#: include/widgets.php:1227
+msgid ""
+"Thank you for joining our mailing list. Please check your email for a "
+"confirmation link."
+msgstr ""
+
+#: include/widgets.php:1229
+msgid "Sign up for our mailing list."
+msgstr ""
+
+#. Base ID
+#: include/widgets.php:1239
+msgid "Chimp: MailChimp List Signup"
+msgstr ""
+
+#: include/widgets.php:1302
+msgid "General Settings"
+msgstr ""
+
+#: include/widgets.php:1306
+msgid "Title :"
+msgstr ""
+
+#: include/widgets.php:1314
+msgid "Select a Mailing List :"
+msgstr ""
+
+#: include/widgets.php:1336
+msgid "Description :"
+msgstr ""
+
+#: include/widgets.php:1352
+msgid "Sign Up Button Text :"
+msgstr ""
+
+#: include/widgets.php:1362
+msgid "Collect first name."
+msgstr ""
+
+#: include/widgets.php:1368
+msgid "Collect last name."
+msgstr ""
+
+#: include/widgets.php:1372
+msgid "Notifications"
+msgstr ""
+
+#: include/widgets.php:1374
+msgid ""
+"Use these fields to customize what your visitors see after they submit the "
+"form"
+msgstr ""
+
+#: include/widgets.php:1378
+msgid "Success :"
+msgstr ""
+
+#: include/widgets.php:1386
+msgid "Failure :"
+msgstr ""
+
+#: include/widgets.php:1595
+msgid "Invalid API key"
+msgstr ""
+
+#: include/widgets.php:1712
+msgid "First Name :"
+msgstr ""
+
+#: include/widgets.php:1726
+msgid "Last Name :"
+msgstr ""
+
+#: include/widgets.php:1744
+msgid "email"
+msgstr ""
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:32
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:35
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:121
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:122
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:123
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:124
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:125
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:126
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:127
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:138
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: include/config_woocommerce/product_meta.php:28
+msgid "Sub Title"
+msgstr ""
+
+#: include/config_woocommerce/product_meta.php:31
+msgid "Put the sub title"
+msgstr ""
+
+#: include/importer/parsers.php:44 include/importer/parsers.php:84
+#: include/importer/parsers.php:92
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: include/importer/parsers.php:45
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: include/importer/parsers.php:96 include/importer/parsers.php:101
+#: include/importer/parsers.php:293 include/importer/parsers.php:493
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:133
+#: include/importer/wordpress-importer.php:142
+#: include/importer/wordpress-importer.php:193
+#: include/importer/wordpress-importer.php:197
+#: include/importer/wordpress-importer.php:206
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:134
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:177
+msgid "All done."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:177
+msgid "Have fun!"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:178
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:198
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:214
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:239
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:265
+msgid "Assign Authors"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:266
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>"
+"admin</code>s entries."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:268
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:278
+msgid "Import Attachments"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:281
+msgid "Download and import file attachments"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:298
+msgid "Import author:"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:426
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:515
+#: include/importer/wordpress-importer.php:654
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:541
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:562
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:621
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:785
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:792
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:854
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:867
+msgid "Invalid file type"
+msgstr "پرونده‌ی افزونه نادرست است"
+
+#: include/importer/wordpress-importer.php:924
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:934
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:939
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:945
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:1044
+msgid "Import WordPress"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:1051
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:1066
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:1067
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:1144
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and "
+"tags</strong> from a WordPress export file."
+msgstr ""
+
+#. Name of the theme
+msgid "WeStand"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"WeStand theme for WordPress is stylish, customizable, simple, and readable - "
+"make it yours with a custom menu and custom theme options. WeStand supports "
+"multiple widgetized areas and featured images (thumbnails for gallery posts "
+"and custom header images for posts and pages). It includes stylesheets for "
+"admin Visual Editor."
+msgstr ""
+
+#. URI of the theme
+msgid "http://www.ChimpStudio.co.uk/"
+msgstr ""
+
+#. Author of the theme
+msgid "ChimpStudio"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/chimpstudio"
+msgstr ""

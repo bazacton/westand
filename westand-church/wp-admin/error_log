@@ -1,0 +1,18 @@
+[30-Jan-2023 10:26:02 Europe/Stockholm] PHP Warning:  Illegal string offset 'slider' in /home2/chimpbaz/public_html/chimpstudioco/westand/westand-church/wp-content/plugins/revslider/admin/includes/template.class.php on line 190
+[30-Jan-2023 10:26:03 Europe/Stockholm] PHP Fatal error:  Uncaught Error: Cannot use string offset as an array in /home2/chimpbaz/public_html/chimpstudioco/westand/westand-church/wp-content/plugins/revslider/admin/includes/template.class.php:190
+Stack trace:
+#0 /home2/chimpbaz/public_html/chimpstudioco/westand/westand-church/wp-content/plugins/revslider/admin/includes/template.class.php(135): RevSliderTemplate->update_template_list()
+#1 /home2/chimpbaz/public_html/chimpstudioco/westand/westand-church/wp-content/plugins/revslider/admin/revslider-admin.class.php(388): RevSliderTemplate->_get_template_list(false)
+#2 /home2/chimpbaz/public_html/chimpstudioco/westand/westand-church/wp-content/plugins/revslider/admin/revslider-admin.class.php(67): RevSliderAdmin->do_update_checks()
+#3 /home2/chimpbaz/public_html/chimpstudioco/westand/westand-church/wp-content/plugins/revslider/revslider.php(145): RevSliderAdmin->__construct()
+#4 /home2/chimpbaz/public_html/chimpstudioco/westand/westand-church/wp-settings.php(447): include_once('/home2/chimpbaz...')
+#5 /home2/chimpbaz/publ in /home2/chimpbaz/public_html/chimpstudioco/westand/westand-church/wp-content/plugins/revslider/admin/includes/template.class.php on line 190
+[15-Feb-2023 11:14:11 Europe/Stockholm] PHP Warning:  Illegal string offset 'slider' in /home2/chimpbaz/public_html/chimpstudioco/westand/westand-church/wp-content/plugins/revslider/admin/includes/template.class.php on line 190
+[15-Feb-2023 11:14:11 Europe/Stockholm] PHP Fatal error:  Uncaught Error: Cannot use string offset as an array in /home2/chimpbaz/public_html/chimpstudioco/westand/westand-church/wp-content/plugins/revslider/admin/includes/template.class.php:190
+Stack trace:
+#0 /home2/chimpbaz/public_html/chimpstudioco/westand/westand-church/wp-content/plugins/revslider/admin/includes/template.class.php(135): RevSliderTemplate->update_template_list()
+#1 /home2/chimpbaz/public_html/chimpstudioco/westand/westand-church/wp-content/plugins/revslider/admin/revslider-admin.class.php(388): RevSliderTemplate->_get_template_list(false)
+#2 /home2/chimpbaz/public_html/chimpstudioco/westand/westand-church/wp-content/plugins/revslider/admin/revslider-admin.class.php(67): RevSliderAdmin->do_update_checks()
+#3 /home2/chimpbaz/public_html/chimpstudioco/westand/westand-church/wp-content/plugins/revslider/revslider.php(145): RevSliderAdmin->__construct()
+#4 /home2/chimpbaz/public_html/chimpstudioco/westand/westand-church/wp-settings.php(447): include_once('/home2/chimpbaz...')
+#5 /home2/chimpbaz/publ in /home2/chimpbaz/public_html/chimpstudioco/westand/westand-church/wp-content/plugins/revslider/admin/includes/template.class.php on line 190
